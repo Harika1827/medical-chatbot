@@ -12,3 +12,4 @@ This chatbot takes symptoms as input, suggests the medical department, checks ur
 - Pain level visualization using matplotlib
 
 ## 📦 Install requirements
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/harikavanukuri/medical-chatbot/blob/main/chatbot.ipynb)
